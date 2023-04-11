@@ -11,4 +11,8 @@ Monocular depth estimation using resnet18 encoder - decoder model.
 3. Refactor model.py code
 
 
+## Conclusion
+
+Surely the model would perform better if trained for a more epochs
+
 
