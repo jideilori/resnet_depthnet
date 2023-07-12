@@ -3,6 +3,10 @@
 Monocular depth estimation using resnet18 encoder - decoder model.
 
 
+# Result
+
+![](office_result.png)
+
 
 ## Todo
 
@@ -13,6 +17,6 @@ Monocular depth estimation using resnet18 encoder - decoder model.
 
 ## Conclusion
 
-Surely the model would perform better if trained for a more epochs
+Surely the model would perform better if trained for more epochs
 
 
